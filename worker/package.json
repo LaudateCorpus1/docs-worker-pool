@@ -18,7 +18,7 @@
     "@babel/core": "^7.4.4",
     "@babel/polyfill": "^7.4.4",
     "async-retry": "^1.2.3",
-    "aws-sdk": "^2.383.0",
+    "aws-sdk": "^2.814.0",
     "axios": "^0.21.1",
     "core-js": "^3.1.4",
     "express": "^4.16.4",
